@@ -17,7 +17,7 @@ const MushroomModal = ({ mushroomprop, label, onSubmit }) => {
             setMushroom({
                 id: mushroomprop.id || null,
                 name: mushroomprop.name || '',
-                regions: JSON.stringify(mushroomprop.regions) || '[]',
+                regions: mushroomprop.regions || '[]',
                 desc: mushroomprop.desc || '',
             });
         }

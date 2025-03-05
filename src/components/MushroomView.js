@@ -50,7 +50,8 @@ const MushroomView = () => {
                 }}>&#x1F4DD;</div>
                 </div>
                 <div>
-                    <Link to={"/poisoning"} state={{mushroom: mushroom}}><button className={classes.button}>
+                    <Link to={"/poisoning"} state={{mushroom:
+                            {...mushroom, regions: JSON.parse(mushroom.regions)}}}><button className={classes.button}>
                         Poisoning
                     </button></Link>
                 </div>

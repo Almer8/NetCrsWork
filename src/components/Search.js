@@ -55,7 +55,7 @@ const Search = () => {
             {isSearched &&
                 <div className={classes.mushroom__container}>
                     {result.map((item, index) => (
-                        <Link to={"/mushroom"} state={{mushroom: {...item, regions: JSON.parse(item.regions)}}} className={classes.mushroom__link}>
+                        <Link to={"/mushroom"} state={{mushroom: item}} className={classes.mushroom__link}>
                             <div className={classes.mushroom__item}>
                             {item.name}
                         </div></Link>
