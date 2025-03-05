@@ -1,0 +1,38 @@
+.article__wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ccbeb1;
+    width: 100%;
+    flex: 1 1;
+    gap: 20px;
+    padding: 20px 0;
+}
+
+.add__button{
+    background-color: #978e82;
+    border: 10px;
+    height: 40px;
+    width: 40px;
+    border-radius: 10px;
+}
+
+.article__container{
+    padding-left: 10px;
+    align-self: flex-start;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+.article__link{
+    color: black;
+
+}
+.article__item{
+    font-size: 25px;
+}
+.title{
+    font-size: 50px;
+}

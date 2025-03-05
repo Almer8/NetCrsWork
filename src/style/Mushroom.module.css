@@ -1,0 +1,30 @@
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    box-sizing: border-box;
+    border-bottom: black 1px solid;
+}
+.title {
+    font-size: 30px;
+    font-weight: bold;
+}
+.imgwrapper{
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.imgwrapper img{
+    width: 200px;
+}
+.desc{
+    font-family: "Times New Roman";
+    font-size: 20px;
+
+}
+.textblock{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

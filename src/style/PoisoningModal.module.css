@@ -1,0 +1,39 @@
+.wrapper{
+    background-color: #b8aa9f;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+.desc{
+    width: 60vw;
+    height: 50vh;
+    resize: none;
+    font-size: 20px;
+}
+.save{
+    width: 120px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: rgba(104, 202, 66, 0.7);
+}
+.name{
+    width: 20vw;
+    height: 30px;
+    font-size: 20px;
+}
+.choose{
+    width: 60vw;
+}
+.text{
+    font-size: 30px;
+
+}
+
+.mushroom__container{
+    display: flex;
+    flex-direction: column;
+
+}

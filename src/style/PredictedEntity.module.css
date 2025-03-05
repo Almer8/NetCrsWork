@@ -1,0 +1,23 @@
+.wrapper{
+    background-color: #ccbeb1;
+    display: flex;
+    border-bottom: 1px solid black;
+    justify-content: space-between;
+    padding: 5px 5px;
+    gap: 50px;
+}
+.field{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+}
+.section{
+    display: flex;
+    gap: 50px;
+}
+.button{
+    user-select: none;
+    font-size: 30px;
+}
+.button:active{
+    transform: translateY(4px) translateX(5px);
+}

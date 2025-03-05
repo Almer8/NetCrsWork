@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "name": "Penny bun",
+      "status": "Edible",
+      "desc": "Boletus edulis (English: cep, penny bun, porcino or porcini) is a basidiomycete fungus, and the type species of the genus Boletus. Widely distributed in the Northern Hemisphere across Europe, Asia, and North America, it does not occur naturally in the Southern Hemisphere, although it has been introduced to southern Africa, Australia, New Zealand, and Brazil. Boletus edulis, as the species epithet edulis (Latin: edible) indicates, is an edible mushroom. Italian chef and restaurateur Antonio Carluccio has described it as representing \"the wild mushroom par excellence\", and hails it as the most rewarding of all fungi in the kitchen for its taste and versatility. Considered a choice edible, particularly in France, Germany, Poland and Italy, it was widely written about by the Roman writers Pliny the Elder and Martial, although ranked below the esteemed Amanita caesarea.",
+      "img": "/mushrooms/penny_bun.jpg"
+    },
+    {
+      "name": "Fly amanita",
+      "status": "Poisonous",
+      "desc": "Amanita muscaria, commonly known as the fly agaric or fly amanita, is a basidiomycete of the genus Amanita. It is a large white-gilled, white-spotted, and usually red mushroom. A large, conspicuous mushroom, Amanita muscaria is generally common and numerous where it grows, and is often found in groups with basidiocarps in all stages of development. Fly agaric fruiting bodies emerge from the soil looking like white eggs. After emerging from the ground, the cap is covered with numerous small white to yellow pyramid-shaped warts. A. muscaria poisoning has occurred in young children and in people who ingested the mushrooms for a hallucinogenic experience, or who confused it with an edible species. A. muscaria contains several biologically active agents, at least one of which, muscimol, is known to be psychoactive. Ibotenic acid, a neurotoxin, serves as a prodrug to muscimol, with a small amount likely converting to muscimol after ingestion.",
+      "img": "/mushrooms/fly_amanita.jpg"
+    },
+    {
+      "name": "Cottonwood mushroom",
+      "status": "Conditionally edible",
+      "desc": "Tricholoma populinum, commonly known as the poplar tricholoma, sandy, or cottonwood mushroom, is a mushroom of the agaric genus Tricholoma. It was formally described by Danish mycologist Jakob Emanuel Lange in 1933. It is traditionally eaten by the Salish Native Americans in British Columbia.",
+      "img": "/mushrooms/cottonwood_mushroom.jpg"
+    },
+    {
+      "name": "Shaggy ink cap",
+      "status": "Conditionally edible",
+      "desc": "Coprinus comatus, commonly known as the shaggy ink cap or lawyer's wig, is an edible mushroom that is popular with foragers. The cap is initially white with a cylindrical shape, becoming bell-shaped and dissolving into a black ink as it matures. It grows in grasslands, gardens, and disturbed areas and is often found in Europe and North America. However, it should not be consumed with alcohol due to the presence of coprine, a compound that may cause adverse reactions.",
+      "img": "/mushrooms/shaggy_ink_cap.jpg"
+    },
+    {
+      "name": "Death cap",
+      "status": "Poisonous",
+      "desc": "Amanita phalloides, known as the death cap, is a deadly poisonous mushroom native to Europe but now widespread in many other parts of the world. It is responsible for the majority of mushroom poisoning deaths. The death cap has a pale greenish or yellowish cap, white gills, and a volva at the base of the stem. Its toxic compounds, amatoxins, inhibit RNA polymerase II, leading to liver and kidney failure.",
+      "img": "/mushrooms/death_cap.jpg"
+    },
+    {
+      "name": "Morel",
+      "status": "Edible",
+      "desc": "Morchella, the true morels, are a genus of edible sac fungi. They are highly prized by chefs and foragers and are often found in forests and disturbed areas during spring. Morels are distinctive for their honeycomb-like appearance. They must be cooked thoroughly to remove hydrazine toxins before consumption.",
+      "img": "/mushrooms/morel.jpg"
+    },
+    {
+      "name": "Jack o'Lantern",
+      "status": "Poisonous",
+      "desc": "Omphalotus illudens, commonly known as the jack o'lantern mushroom, is a bright orange fungus that glows in the dark due to bioluminescence. It is often mistaken for edible chanterelles but causes severe stomach upset if consumed. The jack o'lantern grows in clusters on decaying wood.",
+      "img": "/mushrooms/jack_o'Lantern.png"
+    },
+    {
+      "name": "Chicken of the woods",
+      "status": "Edible",
+      "desc": "Laetiporus sulphureus, commonly known as chicken of the woods, is a bright yellow and orange bracket fungus. It is found on trees, particularly oak, and has a texture and taste similar to chicken. It is widely regarded as a choice edible mushroom but may cause allergic reactions in some individuals.",
+      "img": "/mushrooms/chicken_of_the_woods.jpg"
+    },
+    {
+      "name": "False morel",
+      "status": "Conditionally edible",
+      "desc": "Gyromitra esculenta, known as the false morel, is a mushroom that is highly toxic when raw but can be consumed if properly prepared by thorough cooking. It contains gyromitrin, which hydrolyzes into monomethylhydrazine, a toxin that affects the liver, kidneys, and central nervous system. False morels are often found in sandy soils under conifer trees.",
+      "img": "/mushrooms/false_morel.jpg"
+    },
+    {
+      "name": "Honey fungus",
+      "status": "Edible",
+      "desc": "Armillaria mellea, commonly known as honey fungus, is an edible mushroom that grows in clusters on wood. It is a parasitic fungus that can damage trees and plants. It is highly valued in Eastern European cuisine but requires thorough cooking to remove toxins.",
+      "img": "/mushrooms/honey_fungus.jpg"
+    }
+  ]
+}
